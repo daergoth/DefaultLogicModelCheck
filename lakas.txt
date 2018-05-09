@@ -1,9 +1,0 @@
-D(M,X)
-S(X,B)
-T(A,M)
-L(A,D)
-
-T(x,y):L(y,z)/L(y,z)
-D(x,y):L(x,z)/L(x,z)
-
-L(M,D)
